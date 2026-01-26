@@ -8,4 +8,4 @@ The `minimalisti-C` repository below is a convenience for readers who need a tin
 
 The `onenetd` repository was originally written by Adam Sampson way back in the early 2000s. I have added it here mainly for my own convenience in finding it again, though you may find it useful if you've ever used ncat and the like. (This one passes an ever-increasing environment variable called `CONNCOUNT` to the scripts you call, which helps you collect data for each connection in a series of uniquely and well-ordered files.)
 
-Note that I use the awesome [Fossil SCM](https://fossil-scm.org/) for my own development needs, rather that git, so you won't see much activity here. If you have pull requests, questions, or suggestions, feel free to contact me directly. (See above.)
+Note that I use the awesome [Fossil SCM](https://fossil-scm.org/) for my own development needs, rather that git/GitHub, so you won't see much activity here. If you have pull requests, questions, or suggestions, feel free to contact me directly. (See above.)
