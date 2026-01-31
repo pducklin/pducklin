@@ -1,8 +1,10 @@
 Hi, folks. I'm Paul Ducklin. I've been part of the cybersecurity scene for many years. 
 
+**One of my special skills is explaining in plain English the sort of technical stuff that often gets lost in jargon. Hire me to write, present, do webinars, and host podcasts for you. Hire me because I have many years of real experience in cybersecurity - not just one year's worth many times over.**
+
 You can find my contact details at <https://pducklin.com/about>.
 
-One of my special skills is explaining in plain English the sort of technical stuff that often gets lost in jargon. Hire me to write, present, do webinars, and host podcasts for you. Hire me because I have many years of real experience in cybersecurity - not just one year's worth many times over.
+---
 
 The `minimalisti-C` repository below is a convenience for readers who need a tiny, free, unencumbered C compiler that's trivial to install. Why fetch multigigabytes of Visual Studio or mingw-w64 when you can use this tookit of under half a megabyte!
 
