@@ -2,10 +2,10 @@ Hi, folks. I'm Paul Ducklin. I've been part of the cybersecurity scene for many 
 
 You can find my contact details at <https://pducklin.com/about>.
 
-One of my special skills is explaining in plain English the sort of technological stuff that often gets lost in jargon. 
+One of my special skills is explaining in plain English the sort of technological stuff that often gets lost in jargon. Hire me to write, present, do webinars, and host podcasts for you. Hire me because I have many years of real experience in cybersecurity - not just one year's worth many times over.
 
-The `minimalisti-C` repository below is a convenience for readers who need a tiny, free, unencumbered C compiler that's trivial to install, so they can have a go with the Windows C code that I include in some of my posts and articles. For quick experiments or threat-hunts, the sub-half-megabyte download of `minimalisti-C` makes it a lot more convenient than fetching gigabytes' worth of mingw-64 or Visual Studio (which never seems to stop calling home, fetching new files, and filling up your VMs with stuff).
+The `minimalisti-C` repository below is a convenience for readers who need a tiny, free, unencumbered C compiler that's trivial to install. Why fetch multigigasbytes of Visual Studio or mingw-w64 when you can use this tookit of under half a megabyte!
 
-The `onenetd` repository was originally written by Adam Sampson way back in the early 2000s. I have added it here mainly for my own convenience in finding it again, though you may find it useful if you've ever used ncat and the like. (This one passes an ever-increasing environment variable called `CONNCOUNT` to the scripts you call, which helps you collect data for each connection in a series of uniquely and well-ordered files.)
+The `onenetd` repository was originally written by Adam Sampson way back in the early 2000s. I have added it here mainly for my own convenience in finding it again, though you may find it useful if you've ever used inetd, ncat, and the like. 
 
 Note that I use the awesome [Fossil SCM](https://fossil-scm.org/) for my own development needs, rather that git/GitHub, so you won't see much activity here. If you have pull requests, questions, or suggestions, feel free to contact me directly. (See above.)
